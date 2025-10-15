@@ -1,5 +1,7 @@
 const Outlet = () => {
-    return hello world;
+    return (
+        <>hello world</>
+    );
 }
 
 export default Outlet;

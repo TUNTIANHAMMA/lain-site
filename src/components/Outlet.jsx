@@ -1,6 +1,6 @@
 const Outlet = () => {
     return (
-        <>hello！！！</>
+        <>hello</>
     );
 }
 

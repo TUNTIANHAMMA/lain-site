@@ -1,5 +1,5 @@
 const Outlet = () => {
-    return <>dashboard</>
+    return null;
 }
 
 export default Outlet;

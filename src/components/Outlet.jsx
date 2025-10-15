@@ -1,5 +1,5 @@
 const Outlet = () => {
-    return null;
+    return hello world;
 }
 
 export default Outlet;
